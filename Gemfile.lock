@@ -1,0 +1,17 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    finance (2.0.0)
+      flt (>= 1.3.0)
+    finance_math (1.0.2)
+    flt (1.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  finance (~> 2.0)
+  finance_math
+
+BUNDLED WITH
+   1.10.6
